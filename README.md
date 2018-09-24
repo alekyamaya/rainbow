@@ -1,1 +1,3 @@
 # rainbow
+#all colours
+pink
